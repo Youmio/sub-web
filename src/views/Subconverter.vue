@@ -253,8 +253,8 @@ export default {
           "自动判断客户端": "auto",
         },
         customBackend: {
-          "youmio提供": "https://sub-b.mdfh.com/sub?",
-          "sub-beta.vercel.app": "https://sub-beta.vercel.app/sub?",
+          "youmio提供": "https://sub-b.mdfh.pub/sub?",
+          "sub-beta.vercel.app": "https://now-subconverter-mu-nine.vercel.app/sub?",
           "subcon.dlj.tf(subconverter作者提供-稳定)":
             "https://subcon.dlj.tf/sub?",
           "api.dler.io(sub作者&lhie1提供-稳定)": "https://api.dler.io/sub?",
@@ -262,8 +262,8 @@ export default {
           "sub.mdfh.pub": "https://sub.mdfh.pub/sub?",
         },
         backendOptions: [
-          { value: "https://sub-b.mdfh.com/sub?" },
-          { value: "https://sub-beta.now.sh/sub?" },
+          { value: "https://sub-b.mdfh.pub/sub?" },
+          { value: "https://now-subconverter-mu-nine.vercel.app/sub?" },
           { value: "https://subcon.dlj.tf/sub?" },
           { value: "https://api.dler.io/sub?" },
           { value: "https://api.wcc.best/sub?" },
