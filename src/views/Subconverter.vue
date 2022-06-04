@@ -253,7 +253,7 @@ export default {
           "自动判断客户端": "auto",
         },
         customBackend: {
-          "youmio提供": "https://sub-b.mdfh.pub/sub?",
+          "youmio提供": "https://sub.mdfh.pub/sub?",
           "sub-beta.vercel.app": "https://now-subconverter-mu-nine.vercel.app/sub?",
           "subcon.dlj.tf(subconverter作者提供-稳定)":
             "https://subcon.dlj.tf/sub?",
@@ -262,7 +262,7 @@ export default {
           "品云提供": "https://sub.id9.cc/sub?",
         },
         backendOptions: [
-          { value: "https://sub-b.mdfh.pub/sub?" },
+          { value: "https://sub.mdfh.pub/sub?" },
           { value: "https://now-subconverter-mu-nine.vercel.app/sub?" },
           { value: "https://subcon.dlj.tf/sub?" },
           { value: "https://api.dler.io/sub?" },
